@@ -1,0 +1,31 @@
+{
+  "musicList": [
+    {
+      "id": 1,
+      "title": "artist",
+      "src": "/Music/music1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "artist",
+      "src": "/Music/music2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "artist",
+      "src": "/Music/music5.mp3"
+    }
+  ],
+  "musicList2": [
+    {
+      "id": 4,
+      "title": "artist",
+      "src": "/Music/music3.mp3"
+    },
+    {
+      "id": 5,
+      "title": "artist",
+      "src": "/Music/music.mp3"
+    }
+  ]
+}
