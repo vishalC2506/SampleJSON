@@ -3,29 +3,34 @@
     {
       "id": 1,
       "title": "artist",
-      "src": "/Music/music1.mp3"
+      "src": "/Music/music1.mp3",
+      "name": "array1"
     },
     {
       "id": 2,
       "title": "artist",
-      "src": "/Music/music2.mp3"
+      "src": "/Music/music2.mp3",
+      "name": "array1"
     },
     {
       "id": 3,
       "title": "artist",
-      "src": "/Music/music5.mp3"
+      "src": "/Music/music5.mp3",
+      "name": "array1"
     }
   ],
   "musicList2": [
     {
       "id": 4,
       "title": "artist",
-      "src": "/Music/music3.mp3"
+      "src": "/Music/music3.mp3",
+      "name": "array2"
     },
     {
       "id": 5,
       "title": "artist",
-      "src": "/Music/music.mp3"
+      "src": "/Music/music.mp3",
+      "name": "array2"
     }
   ]
 }
